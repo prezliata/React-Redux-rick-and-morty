@@ -7,6 +7,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+### `npm install @material-ui/core`
+### `npm install @material-ui/icons`
+### `npm install @material-ui/lab`
+
+React Router
+### `npm i react-router-dom --save`
+
+Redux
+### `npm install --save redux`
+### `npm install --save react-redux`
+### `npm install redux-thunk`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
